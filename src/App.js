@@ -9,9 +9,9 @@ import Footer from './components/Footer';
 function App() {
 	return (
 		<div className="App">
-			<Header />
-			<About />
+			<Header />		
 			<Projects />
+			<About />
 			<Experience />
 			<Social />
 			<Footer />
